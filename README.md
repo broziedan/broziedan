@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @broziedan
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on some project.
-- 📫 How to reach me broziedan@gmail.com
-
-<!---
-broziedan/broziedan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Highly skilled Full Stack Developer with comprehensive background in 
+*** PHP, 
+*** Python/Django, 
+*** HTML/CSS/JavaScript/Bootstrap
+*** MySQl/SQL
+*** Version Control/GIT. 
+Proven expertise in leading and contributing to the development of innovative web applications. 
+Adept at collaborating with cross-functional teams and ensuring project success from conception to implementation.
